@@ -1,13 +1,8 @@
 #!/usr/bin/env sh
-
-ls -la /
-
-ls -la ./
-
 cat ./versions.env
 
 set -a
-source ./versions.env
+. ./versions.env
 set +a
 
 set > build.env
