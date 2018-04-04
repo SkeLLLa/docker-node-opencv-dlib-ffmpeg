@@ -1,5 +1,9 @@
 #!/usr/bin/env sh
 
+ls -la /
+
+ls -la ./
+
 set -a
 source versions.env
 set +a
