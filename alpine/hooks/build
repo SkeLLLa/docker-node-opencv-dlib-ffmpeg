@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 set -a
-source versions.env
+source ../versions.env
 set +a
 
 set > build.env
