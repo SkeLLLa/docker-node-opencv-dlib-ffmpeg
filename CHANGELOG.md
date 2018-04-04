@@ -1,3 +1,9 @@
+#### 0.11.0 (2018-04-04)
+
+##### Bug Fixes
+
+* **docker:**  move dockerfiles ([2d9b8fb7](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/2d9b8fb7a6dd9f4130287afb384368f52730ede3))
+
 #### 0.10.0 (2018-04-04)
 
 ##### Refactors
