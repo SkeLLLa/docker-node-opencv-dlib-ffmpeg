@@ -1,3 +1,13 @@
+#### 0.2.0 (2018-04-04)
+
+##### Documentation Changes
+
+* **changelog:**  add changelog ([391bdaef](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/391bdaef7b7e7b7c8a84d46bf90199b1e4e30a7f))
+
+##### Bug Fixes
+
+* **hook:**  fix hook ([06ab25c5](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/06ab25c50172dcdc72e1f43b526067d78c73ebcd))
+
 #### 0.1.0 (2018-04-04)
 
 ##### Build System / Dependencies
