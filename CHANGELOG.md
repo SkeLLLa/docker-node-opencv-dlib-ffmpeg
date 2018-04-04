@@ -1,3 +1,9 @@
+#### 0.12.0 (2018-04-04)
+
+##### Bug Fixes
+
+* **deps:**  fix alpine builddeps ([95500c62](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/95500c62744639fc955f91bcd39c119670a3dbc9))
+
 #### 0.11.0 (2018-04-04)
 
 ##### Bug Fixes
