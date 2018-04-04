@@ -12,7 +12,9 @@ ENV OPENCV_VERSION=${OPENCV_VERSION} \
     LIB_PREFIX=${LIB_PREFIX} \
     OPENCV4NODEJS_DISABLE_AUTOBUILD=1 \
     DLIB_INCLUDE_DIR='$LIB_PREFIX/include' \
-    DLIB_LIB_DIR='$LIB_PREFIX/lib'
+    DLIB_LIB_DIR='$LIB_PREFIX/lib' \
+    FFMPEG_PATH='/usr/bin/ffmpeg' \
+    FFPROBE_PATH='/usr/bin/ffprobe'
 
 RUN echo "OpenCV: ${OPENCV_VERSION}" \
     && echo "Dlib: ${DLIB_VERSION}" \
