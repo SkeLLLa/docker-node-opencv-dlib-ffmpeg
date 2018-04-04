@@ -1,3 +1,9 @@
+#### 0.10.0 (2018-04-04)
+
+##### Refactors
+
+* **build:**  refactor image locations ([069da379](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/069da37926439fbbe0baafc7e1bfd59849e1a72e))
+
 #### 0.9.0 (2018-04-04)
 
 ##### Chores
