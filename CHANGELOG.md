@@ -1,3 +1,9 @@
+#### 0.8.0 (2018-04-04)
+
+##### Build System / Dependencies
+
+* **node:**  node 9.10.0 ([c997d320](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/c997d3208ef284e8c5e73a6f60f7e5e9e244c860))
+
 #### 0.7.0 (2018-04-04)
 
 ##### Bug Fixes
