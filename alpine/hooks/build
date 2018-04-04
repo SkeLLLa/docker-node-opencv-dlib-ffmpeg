@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+set -a
+source versions.env
+set +a
+
+set > build.env
+
+docker build --build-arg=NODE_VERSION=$NODE_VERSION --build-arg=OPENCV_VERSION=$OPENCV_VERSION --build-arg=DLIB_VERSION=$DLIB_VERSION -t $IMAGE_NAME .
