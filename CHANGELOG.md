@@ -1,3 +1,9 @@
+#### 0.9.0 (2018-04-04)
+
+##### Chores
+
+* **debug:**  test hook in parent dir ([da0b8a35](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/da0b8a3505ad26d3e21722da583350a76965db31))
+
 #### 0.8.0 (2018-04-04)
 
 ##### Build System / Dependencies
