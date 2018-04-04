@@ -1,3 +1,9 @@
+#### 0.7.0 (2018-04-04)
+
+##### Bug Fixes
+
+* **hook:**  fix ([1fc529dd](https://github.com/SkeLLLa/docker-node-opencv-dlib-ffmpeg/commit/1fc529dd1426049cab0ab16f84e6a1caee4ff40a))
+
 #### 0.6.0 (2018-04-04)
 
 ##### Bug Fixes
