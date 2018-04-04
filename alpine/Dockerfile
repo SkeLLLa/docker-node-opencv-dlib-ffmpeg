@@ -14,8 +14,7 @@ ENV OPENCV_VERSION=${OPENCV_VERSION} \
     DLIB_INCLUDE_DIR='$LIB_PREFIX/include' \
     DLIB_LIB_DIR='$LIB_PREFIX/lib'
 
-RUN echo "Node: ${NODE_VERSION}" \
-    && echo "OpenCV: ${OPENCV_VERSION}" \
+RUN echo "OpenCV: ${OPENCV_VERSION}" \
     && echo "Dlib: ${DLIB_VERSION}" \
     && apk add -u --no-cache --virtual .build-dependencies $BUILD_DEPS \
     && wget -q https://github.com/Itseez/opencv/archive/${OPENCV_VERSION}.zip -O opencv.zip \
